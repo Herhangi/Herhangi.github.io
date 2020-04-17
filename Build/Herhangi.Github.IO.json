@@ -1,0 +1,16 @@
+{
+"companyName": "AkuparaGames",
+"productName": "VirusHunters",
+"productVersion": "0.14",
+"dataUrl": "Herhangi.Github.IO.data.unityweb",
+"wasmCodeUrl": "Herhangi.Github.IO.wasm.code.unityweb",
+"wasmFrameworkUrl": "Herhangi.Github.IO.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.10f1"
+}
